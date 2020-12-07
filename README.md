@@ -19,6 +19,8 @@ The classids in the labels use 0 indexing.
 
 The classid of each class is based on the position of the classname in the list above. For example: classid of bus is 0 and the classid of car is 3.
 
+The dataset has 720 .jpg images and their annotations in 720 .txt files
+
 ### Organzitation of Files
 ```
 -- Roads of Bangladesh - Vehicle Detection and Classification Dataset
