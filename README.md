@@ -35,12 +35,16 @@ The classid of each class is based on the position of the classname in the list 
 ### Dataset Example
 <table>
   <tr>
-    <td> <img src="sample_pics/1.jpeg" alt="drawing" height="480" width="270"/> </td>
-    <td> <img src="sample_pics/2.jpeg" alt="drawing" height="480" width="270"/> </td>
+    <td> <img src="sample_pics/pic1.jpg" alt="drawing" height="512" width="512"/> </td>
+    <td> <img src="sample_pics/annotatedpic1.jpg" alt="drawing" height="512" width="512"/> </td>
   </tr>
   <tr>
-    <td> <img src="sample_pics/3.jpeg" alt="drawing" height="480" width="270"/> </td>
-    <td> <img src="sample_pics/4.jpeg" alt="drawing" height="480" width="270"/> </td>
+    <td> <img src="sample_pics/pic2.jpg" alt="drawing" height="512" width="512"/> </td>
+    <td> <img src="sample_pics/annotatedpic2.jpg" alt="drawing" height="512" width="512"/> </td>
+  </tr>
+  <tr>
+    <td> <img src="sample_pics/pic3.jpg" alt="drawing" height="512" width="512"/> </td>
+    <td> <img src="sample_pics/annotatedpic3.jpg" alt="drawing" height="512" width="512"/> </td>
   </tr>
 </table>
 
