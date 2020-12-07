@@ -21,7 +21,7 @@ The classid of each class is based on the position of the classname in the list 
 
 The dataset has 720 .jpg images and their annotations in 720 .txt files
 
-### Organzitation of Files
+### Organization of Files
 ```
 -- Roads of Bangladesh - Vehicle Detection and Classification Dataset
       -- Images
