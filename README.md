@@ -1,5 +1,5 @@
 # Vehicle Detection Dataset - Bangladeshi Roads
-This dataset was created for being used as an external dataset for the DhakaAI - 2020 competition
+This dataset was created for being used as an external dataset for the DhakaAI - 2020 competition. [Here](https://www.kaggle.com/rifat963/dhakaai-dhaka-based-traffic-detection-dataset) is the main dataset which was provided by the competition organizers. 
 
 ### Download Dataset
 
