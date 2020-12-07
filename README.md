@@ -37,16 +37,16 @@ The dataset has 720 .jpg images and their annotations in 720 .txt files
 ### Dataset Example
 <table>
   <tr>
-    <td> <img src="sample_pics/pic1.jpg" alt="drawing" height="512" width="512"/> </td>
-    <td> <img src="sample_pics/annotatedpic1.jpg" alt="drawing" height="512" width="512"/> </td>
+    <td> <img src="sample_pics/pic1.jpg" alt="drawing" height="312" width="312"/> </td>
+    <td> <img src="sample_pics/annotatedpic1.jpg" alt="drawing" height="312" width="312"/> </td>
   </tr>
   <tr>
     <td> <img src="sample_pics/pic2.jpg" alt="drawing" height="512" width="512"/> </td>
-    <td> <img src="sample_pics/annotatedpic2.jpg" alt="drawing" height="512" width="512"/> </td>
+    <td> <img src="sample_pics/annotatedpic2.jpg" alt="drawing" height="312" width="312"/> </td>
   </tr>
   <tr>
     <td> <img src="sample_pics/pic3.jpg" alt="drawing" height="512" width="512"/> </td>
-    <td> <img src="sample_pics/annotatedpic3.jpg" alt="drawing" height="512" width="512"/> </td>
+    <td> <img src="sample_pics/annotatedpic3.jpg" alt="drawing" height="312" width="312"/> </td>
   </tr>
 </table>
 
